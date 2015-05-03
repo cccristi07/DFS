@@ -1,1 +1,1 @@
-# DFS
+Implementation of DFS algorithm in C 
